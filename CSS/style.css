@@ -267,14 +267,14 @@ section {
   height: 8100%;
   display: block;
   position: relative;
-  background: rgb(71, 71, 71) ;
+  background: rgb(71, 71, 71);
 }
 .case-subtitle {
   text-align: center;
   font-family: "Times New Roman", Times, serif;
 }
 .case-subtitle h4 {
-  color: rgb(199, 198, 198);
+  color: white;
   font-weight: 700;
   font-size: 20px;
   padding-top: 60px;
@@ -290,22 +290,21 @@ section {
 
 }*/
 
-
 .case-studies-section {
   padding: 80px 0;
   position: relative;
 }
 
-.project1{
+.project1 {
   align-items: center;
   display: flex;
   height: 450px;
   margin: 100px;
   margin-left: 250px;
   margin-right: 250px;
-  background: linear-gradient(to bottom, #D4FC79, #96E6A1)
+  background: linear-gradient(to bottom, #d4fc79, #96e6a1);
 }
-.project-1{
+.project-1 {
   display: grid;
   place-content: center;
   width: 100%;
